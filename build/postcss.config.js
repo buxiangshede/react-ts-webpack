@@ -12,6 +12,6 @@ module.exports = {
       },
     ],
     "autoprefixer", // 在css前添加不同浏览器的前缀
-    "cssnano", //  CSS 进行压缩
+    // "cssnano", //  CSS 进行压缩
   ],
 };
